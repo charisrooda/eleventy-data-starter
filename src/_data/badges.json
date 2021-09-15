@@ -1,0 +1,41 @@
+[{
+    "conf": "hello",
+    "svg": "20",
+    "color": "#022D3D",
+    "emoji": "🤖",
+    "first": "Cat",
+    "last": "Not Found",
+    "company": "",
+    "ticketid": "OHNO"
+  },
+  {
+    "conf": "hello",
+    "svg": "1",
+    "color": "#404041",
+    "emoji": "✈️",
+    "first": "Jean",
+    "last": "Mineur",
+    "company": "",
+    "ticketid": "TEST"
+  },
+  {
+    "conf": "hello",
+    "svg": "2",
+    "color": "#1B74BB",
+    "emoji": "☕",
+    "first": "Ron",
+    "last": "Brandsteder",
+    "company": "",
+    "ticketid": "HELLO"
+  },
+  {
+    "conf": "hello",
+    "svg": "3",
+    "color": "#83A502",
+    "emoji": "🐩",
+    "first": "Linda",
+    "last": "de Mol",
+    "company": "",
+    "ticketid": "AWESOME"
+  }
+]
